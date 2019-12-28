@@ -1,2 +1,2 @@
-# learn-canvas
+# Canvas colection
  
